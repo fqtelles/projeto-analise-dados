@@ -1,4 +1,4 @@
-# Análise de Recursos Judiciais
+# Jurimetria usando Python a partir de relatórios .xlsx
 Este notebook realiza a análise de recursos judiciais a partir de dados extraídos de planilhas Excel. Ele inclui a leitura dos dados, filtragem, contagem de resultados e visualização gráfica dos dados.
 
 ## Estrutura do Projeto
@@ -6,10 +6,12 @@ Este notebook realiza a análise de recursos judiciais a partir de dados extraí
 - Julgados outubro 2024.xlsx: Planilha contendo dados de recursos julgados.
 - Notebook.ipynb: Notebook Jupyter contendo o código de análise.
 
+##  [Gráficos gerados](./Apresenta%C3%A7%C3%A3o%20-%20Projeto%20An%C3%A1lise%20de%20Dados.pdf)
+
 ## Requisitos
-Python 3.7+
-Pandas
-Matplotlib
+- Python 3.7+
+- Pandas
+- Matplotlib
 
 ## Instalação
 Clone o repositório:
